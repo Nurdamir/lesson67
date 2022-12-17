@@ -1,0 +1,16 @@
+.Counter {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 5%;
+}
+
+.displayCalc {
+    width: 400px;
+}
+
+.btnValue {
+    width: 100px;
+    margin: 5px;
+    padding: 10px;
+}
