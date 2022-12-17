@@ -2,12 +2,10 @@ import React from 'react';
 
 interface Props {
     value: string;
-    onClick?: React.MouseEventHandler;
-    // statusBtn?: boolean;
+    onClick: React.MouseEventHandler;
 }
 
 const Button: React.FC<Props> = ({value, onClick}) => {
-
     return (
         <button
             className='btn btn-outline-dark btnValue'

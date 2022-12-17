@@ -1,16 +1,18 @@
-.Counter {
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    padding: 5%;
-}
-
-.displayCalc {
-    width: 400px;
+.displayCode {
+    width: 330px;
+    border: 2px solid black;
 }
 
 .btnValue {
     width: 100px;
     margin: 5px;
     padding: 10px;
+}
+
+.starPlace {
+    width: 310px;
+    height: 50px;
+    text-align: center;
+    border: 2px solid black;
+    font-size: 35px;
 }

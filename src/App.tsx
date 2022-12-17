@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 import Code from "./container/Code/Code";
 
 
